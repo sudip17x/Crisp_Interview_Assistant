@@ -10,10 +10,10 @@ Interviewers get a secure dashboard with analytics, passkey-based candidate acce
 
 ## Project Structure
 src/
- ├── services/           # AI, state, and security logic
- ├── components/         # Tabs, cards, modals
- ├── App.jsx             # Main app
- └── index.js            # Entry point
+ ├── services/  
+ ├── components/      
+ ├── App.jsx             
+ └── index.js           
 
 ## Features
 -  Resume parsing (PDF/DOCX upload)
