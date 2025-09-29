@@ -25,6 +25,16 @@ Interviewers get a secure dashboard with analytics, passkey-based candidate acce
 
 ---
 
+## Let's Connect
+
+If you're interested in collaborating or have questions, feel free to reach out!
+
+
+## Contributor
+ SUDIP GHOSH
+### Email: sudip17x@gmail.com
+### LinkedIn: (https://www.linkedin.com/in/sudip-ghosh-758463304/)
+
 ## Installation
 
 Clone the repo:
