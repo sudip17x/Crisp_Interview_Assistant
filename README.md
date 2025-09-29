@@ -8,6 +8,12 @@ Interviewers get a secure dashboard with analytics, passkey-based candidate acce
 
 ![image alt](https://github.com/sudip17x/Crisp_Interview_Assistant/blob/b6cf26cb62dfe4a140cef077c9eb8fb2425c5057/Ai_interview.jpg)
 
+## Project Structure
+src/
+ ├── services/           # AI, state, and security logic
+ ├── components/         # Tabs, cards, modals
+ ├── App.jsx             # Main app
+ └── index.js            # Entry point
 
 ## Features
 -  Resume parsing (PDF/DOCX upload)
