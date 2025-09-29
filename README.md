@@ -35,9 +35,3 @@ If you're interested in collaborating or have questions, feel free to reach out!
 ### Email: sudip17x@gmail.com
 ### LinkedIn: (https://www.linkedin.com/in/sudip-ghosh-758463304/)
 
-## Installation
-
-Clone the repo:
-```bash
-git clone https://github.com/your-username/interview-assistant.git
-cd interview-assistant
