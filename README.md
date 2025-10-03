@@ -6,7 +6,7 @@ Interviewers get a secure dashboard with analytics, passkey-based candidate acce
 
 ## project video drive link (please use headphones)
 https://drive.google.com/file/d/1guOf2cCiB--hMUbu7rqx8_llmN2Q-1pd/view?usp=sharing
-
+### For more details let's connect...
 ---
 
 ![image alt](https://github.com/sudip17x/Crisp_Interview_Assistant/blob/a7b19a92367445d31144327a16af596d4b61a5a8/Ai_interview.jpg)
