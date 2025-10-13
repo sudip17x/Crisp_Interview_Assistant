@@ -4,6 +4,8 @@ AI-powered technical interview platform built with **React + TailwindCSS**.
 It allows candidates to take interviews, upload resumes, answer AI-generated questions, and get instant feedback.  
 Interviewers get a secure dashboard with analytics, passkey-based candidate access, and stored interview results.
 
+Link : https://crisp-ai-interview-assistant.netlify.app/
+
 ## project video drive link (please use headphones)
 https://drive.google.com/file/d/1guOf2cCiB--hMUbu7rqx8_llmN2Q-1pd/view?usp=sharing
 ### For more details let's connect...
